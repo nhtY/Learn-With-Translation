@@ -25,6 +25,9 @@ There are seven screens. These are:
 
 **7. Quiz:** There is a multiple-choice quiz from the chosen set.
 
+## See Video:
+[click to watch](https://user-images.githubusercontent.com/89942570/158029395-1773aea3-27d8-4d0e-9966-b28c5bc23554.mp4)
+
 ## See Photos:
 
 <img src="https://user-images.githubusercontent.com/89942570/158029083-c5a0c0b2-8853-4cae-83db-347fb2b0a86f.png" width="260" height="480">
