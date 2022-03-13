@@ -4,7 +4,7 @@ import 'package:html_unescape/html_unescape.dart';
 import 'package:http/http.dart' as http;
 
 class TranslationApi {
-  static final _apiKey = 'AIzaSyDPfT11_HwR7-7P1deF7xSgn0iPJPxWeS0';
+  static final _apiKey = '*******************************';
 
   static Future<String> translate(String message, String toLanguageCode) async {
     final response = await http.post(
